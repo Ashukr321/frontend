@@ -1,0 +1,10 @@
+.gallary_images:hover{
+  transform: scale(1.060);
+  transition:all .6s ease-in-out;
+  cursor:pointer;
+  z-index:100;
+  -webkit-transform: scale(1.060);
+  -moz-transform: scale(1.060);
+  -ms-transform: scale(1.060);
+  -o-transform: scale(1.060);
+}

@@ -1,0 +1,15 @@
+.contact{
+  height:100vh;
+  padding:80px;
+}
+
+
+@media screen and (max-width:678px) {
+  .contact{
+    background-color:#c7ecee;
+    height:auto;
+    padding:40px;
+    
+  }
+}
+
