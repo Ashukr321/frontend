@@ -8,7 +8,8 @@ import Hero2 from '../components/Hero2';
 import Features from '../components/Features';
 import Cta from '../components/Cta';
 import Testimonial from '../components/Testimonial';
-// import Caresule from '../components/Caresule'
+
+
 
 const Home = () => {
    useEffect(()=>{
@@ -38,7 +39,6 @@ const Home = () => {
 </section>
 
 <Hero2/>
-{/* <Caresule/> */}
 <Testimonial/>
 <Cta/>
 <Features/>
